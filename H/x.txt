@@ -85,7 +85,7 @@
 {"key":"drpy_js_banan","name":"🔞🈲🈲banan[DRPY18]","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/drpy.js","ext":"https://download.kstore.space/download/2883/PY/js/banan.js","jar":"./jar/111.png"},
 {"key":"drpy_js_18av","name":"🔞🈲🈲18av[DRPY18]","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/drpy.js","ext":"https://download.kstore.space/download/2883/PY/js/18av.js","jar":"./jar/111.png"},
 {"key":"drpy_js_养端","name":"🔞🈲养端（DRPY）","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/drpy.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"./js/养端.js","jar":"./jar/111.png"},
-{"key":"drpy_js_玩偶姐姐","name":"🔞🈲玩偶姐姐[DRPY18]","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/drpy.js","ext":"./js/玩偶姐姐.js","jar":"./jar/111.png"},
+{"key":"drpy_js_玩偶姐姐","name":"🔞🈲玩偶姐姐[DRPY18]","type":3,"api":"./js/drpy.js","ext":"./js/玩偶姐姐.js","jar":"./jar/111.png"},
 {"key":"drpy_js_朱古力","name":"🔞🈲朱古力[DRPY18]","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/drpy.js","ext":"./js/朱古力.js","jar":"./jar/111.png"},
 {"key":"drpy_js_Missav","name":"🔞🈲Missav[DRPY18]","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/drpy.js","ext":"./js/Missav.js","jar":"./jar/111.png"}
 ],
