@@ -5,7 +5,7 @@
 
 
 {
-  "spider":"https://ghproxy.com/https://raw.githubusercontent.com/mullvip/TVBox/main/jar/cc.jar;md5;a4bf71ea71185b7815d3e94d591a7c51"
+  "spider":"https://ghproxy.com/https://raw.githubusercontent.com/mullvip/TVBox/main/jar/cc.jar;md5;a4bf71ea71185b7815d3e94d591a7c51",
   "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
   "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly90di41eWUuY2MvbGl2ZS9saXZlLnR4dA=="]}]}],
   "sites":[
