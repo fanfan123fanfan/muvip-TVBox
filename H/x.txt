@@ -1,6 +1,6 @@
 {
 "spider":"./jar/xx.jar",
-"lives":[{"group":"redirect","channels":[{"name":"live","urls":["https://raw.githubusercontent.com/mullvip/TVBox/main/H/zb.txt"]}]}],
+"lives":[{"group":"redirect","channels":[{"name":"live","urls":[""proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuaXFpcS5pby9DeXJpbDA1NjMvbGFuamluZ19saXZlL21haW4vVFZib3hfRnJlZS9MSVZFL0ZyZWUvdHZib3hfbGl2ZS50eHQ=""]}]}],
 
 
 "sites":[
