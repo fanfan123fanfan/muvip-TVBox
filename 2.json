@@ -7,8 +7,8 @@
 {
   "spider":"http://ftp6284928.host108.abeiyun.cn/jar/tvbox.txt;md5;a4bf71ea71185b7815d3e94d591a7c51",
   "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
-  "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vbXVs
-bHZpcC9UVkJveC9tYWluL2xpdmUvamlhcWluZ19saXZlLnR4dA=="]}]}],
+  "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL211bGx2aXAvVFZCb3gvbWFpbi9saXZl
+L2ppYXFpbmdfbGl2ZS50eHQ="]}]}],
   "sites":[
     {"key":"drpy_js_豆瓣","name":"豆瓣┃永久免费","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext":"http://ftp6284928.host108.abeiyun.cn/drpy/js/drpy.js"},
     {"key":"csp_Nmys","name":"农民","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ftp6284928.host108.abeiyun.cn/json/nmys.json"},
