@@ -14,7 +14,7 @@
     },
     {
       "key": "csp_xpath_xxj",
-      "name": "部分由贝诺公司筛选",
+      "name": "最新接口公众号发布",
       "type": 3,
       "api": "csp_XPathMacFilter",
       "searchable": 1,
@@ -60,7 +60,7 @@
     },
     {
       "key": "点点",
-      "name": "云星日记",
+      "name": "嘉青工作室",
       "type": 0,
       "api": "https://xx55zyapi.com/home/cjapi/ascf/mc/vod/xml",
       "searchable": 1,
@@ -69,7 +69,7 @@
     },
     {
       "key": "屌丝",
-      "name": "星",
+      "name": "嘉",
       "type": 0,
       "api": "https://sdszyapi.com/home/cjapi/asbb/sea/vod/xml",
       "searchable": 1,
@@ -78,7 +78,7 @@
     },
     {
       "key": "哥哥妹妹",
-      "name": "日",
+      "name": "青",
       "type": 0,
       "api": "http://www.ggmmzy.com:9999/inc/xml",
       "searchable": 0,
@@ -87,7 +87,7 @@
     },
     {
       "key": "*CK资源",
-      "name": "记",
+      "name": "工",
       "type": 1,
       "api": "http://www.feifei67.com/api.php/provide/vod/",
       "searchable": 1,
@@ -96,7 +96,7 @@
     },
     {
       "key": "*博天堂",
-      "name": "天堂",
+      "name": "作室",
       "type": 0,
       "api": "http://bttcj.com/inc/sapi.php",
       "searchable": 1,
