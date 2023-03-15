@@ -1,6 +1,6 @@
 {
 "spider":"./jar/xx.jar",
-"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly90di41eWUuY2MvbGl2ZS9saXZlLnR4dA=="]}]}],
+"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuaXFpcS5pby9tdWxsdmlwL1RWQm94L21haW4vSC96Yi50eHQ="]}]}],
 
 
 "sites":[
