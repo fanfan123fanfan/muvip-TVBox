@@ -1808,5 +1808,5 @@
     "cms.qdwght.com"
   ],
   "wallpaper": "https://picsum.photos/1080/",
-  "spider": "./jar/tvbox18.jar"
+  "spider": "https://gcore.jsdelivr.net/gh/fanfan123fanfan/muvip-TVBox/H/jar/tvbox18.jar"
 }
