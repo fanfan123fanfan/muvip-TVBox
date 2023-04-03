@@ -976,7 +976,7 @@
 		"name": "live",
 		"type": 0,
 		"url": "https://ghproxy.com/https://raw.githubusercontent.com/Cr-cm/1/main/tvlive.txt",
-		"epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
+		"epg": "http://epg.112114.xyz/"
         }
     ],
         "parses": [
